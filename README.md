@@ -9,5 +9,5 @@
 - 🤔 I’m looking for help with Resberry Pi
 - 💬 Ask me about any tool on Instagram @cyber_dioxide_
 - 📫 How to reach me: https://www.instagram.com/cyber_dioxide
-- 😄 Pronouns: his/hom
+- 😄 Pronouns: his/him
 - ⚡ Fun fact: A Memer
