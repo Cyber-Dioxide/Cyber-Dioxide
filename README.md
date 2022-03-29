@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Passind College examination]
+- 🔭 I’m currently working on [Passing College examination]
 - 🌱 I’m currently learning C++ / Bash
 - 👯 I’m looking to collaborate on Instagram
 - 🤔 I’m looking for help with Resberry Pi
