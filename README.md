@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on [Passing College examination]
+- 🔭 I’m currently working on MicroControllers
 - 🌱 I’m currently learning C++ / Bash
-- 👯 I’m looking to collaborate on Instagram
+- 👯 I’m looking to collaborate on Raspberry_pi
 - 🤔 I’m looking for help with Resberry Pi
 - 💬 Ask me about any tool on Instagram @cyber_dioxide
 - 📫 How to reach me: https://www.instagram.com/cyber_dioxide
