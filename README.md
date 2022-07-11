@@ -13,6 +13,6 @@
 - ⚡ Fun fact: A Memer
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Cyber-Dioxide&show_icons=true)
-!(https://www.hackerrank.com/certificates/966f04764924)
+
 
 
