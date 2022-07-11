@@ -12,6 +12,9 @@
 - 😄 Pronouns: his/him
 - ⚡ Fun fact: A Memer
 
+
+## My Github Stats
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Cyber-Dioxide&show_icons=true)
 
 
