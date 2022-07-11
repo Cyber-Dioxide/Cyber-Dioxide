@@ -12,4 +12,3 @@
 - 😄 Pronouns: his/him
 - ⚡ Fun fact: A Memer
 
-https://www.hackerrank.com/certificates/966f04764924
