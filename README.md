@@ -4,9 +4,9 @@
 
 
 - 🔭 I’m currently working on MicroControllers
-- 🌱 I’m currently learning C++ / Bash
-- 👯 I’m looking to collaborate on Raspberry_pi
-- 🤔 I’m looking for help with Resberry Pi
+- 🌱 I’m currently learning C++ / GoLang
+- 👯 I’m looking to collaborate on Wifi-Jammer
+- 🤔 I’m looking for help with Raspberry Pi
 - 💬 Ask me about any tool on Instagram @cyber_dioxide
 - 📫 How to reach me: https://www.instagram.com/cyber_dioxide
 - 😄 Pronouns: his/him
