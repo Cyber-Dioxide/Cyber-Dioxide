@@ -17,5 +17,6 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Cyber-Dioxide&show_icons=true)
 
-[THM](![img](https://tryhackme.com/CyberDioxide/badges/hash-cracker))
+[THM]
+![img](<script src="https://tryhackme.com/badge/1153756"></scrip)
 
