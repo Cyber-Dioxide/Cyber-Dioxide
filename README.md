@@ -17,5 +17,5 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Cyber-Dioxide&show_icons=true)
 
-[THM](![img]/thm.html)
+[THM](![img]https://tryhackme.com/badge/1153756)
 
