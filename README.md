@@ -11,7 +11,7 @@
 - 📫 How to reach me: https://www.instagram.com/cyber_dioxide
 - 😄 Pronouns: his/him
 - ⚡ Fun fact: A Memer
-
+- Youtube:~ https://www.youtube.com/channel/UCz3fLSyG0whhQxXnZ2vmIYw
 
 ## My Github Stats
 
