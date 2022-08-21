@@ -13,6 +13,9 @@
 - ⚡ Fun fact: A Memer
 - Youtube:~ https://www.youtube.com/channel/UCz3fLSyG0whhQxXnZ2vmIYw
 
+# Help to buy me a raspberry pi
+* Paypal: @maazwaheed123
+
 # Current Distro
 ![Screenshot_20220817_200129](https://user-images.githubusercontent.com/93708296/185174844-03b7f67f-a546-463c-bfec-db0f67c5a0e7.png)
 
@@ -27,7 +30,6 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Cyber-Dioxide&show_icons=true)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyber-Dioxide&show_icons=true&locale=en&layout=compact" alt="Cyber-Dioixed" /></p>
 
-# Donate
-PayPal:<h2> @maazwaheed123</h2>
+
 
 
