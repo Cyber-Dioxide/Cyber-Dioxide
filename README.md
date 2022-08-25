@@ -17,7 +17,7 @@
 * Paypal: @maazwaheed123
 
 # Current Distro
-![Screenshot_20220817_200129](https://user-images.githubusercontent.com/93708296/185174844-03b7f67f-a546-463c-bfec-db0f67c5a0e7.png)
+![Screenshot_20220825_163609](https://user-images.githubusercontent.com/93708296/186654848-c73c4319-477d-49e5-89a0-5785db4d3c5d.png)
 
 #
 
