@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on MicroControllers
-- 🌱 I’m currently learning C++ / GoLang
+- 🌱 I’m currently learning Lua / GoLang
 - 👯 I’m looking to collaborate on Wifi-Jammer
 - 🤔 I’m looking for help with Raspberry Pi
 - 💬 Ask me about any tool on Instagram @cyber_dioxide
