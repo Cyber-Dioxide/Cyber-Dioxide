@@ -12,10 +12,11 @@
 - 😄 Pronouns: his/him
 - ⚡ Fun fact: A Memer
 - 🌱 Youtube:~ https://www.youtube.com/channel/UCz3fLSyG0whhQxXnZ2vmIYw
+- ![](https://komarev.com/ghpvc/?username=Cyber-Dioxide)
+
 
 # Help to buy me a raspberry pi
 * Paypal: @maazwaheed123
-![](https://komarev.com/ghpvc/?username=Cyber-Dioxide)
 
 # Current Distro
 ![Screenshot_20220825_163609](https://user-images.githubusercontent.com/93708296/186654848-c73c4319-477d-49e5-89a0-5785db4d3c5d.png)
