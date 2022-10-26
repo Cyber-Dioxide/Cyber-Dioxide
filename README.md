@@ -12,11 +12,7 @@
 - 😄 Pronouns: his/him
 - ⚡ Fun fact: A Memer
 - 🌱 Youtube:~ https://www.youtube.com/channel/UCz3fLSyG0whhQxXnZ2vmIYw
-
-
-
-# Help to buy me a raspberry pi
-* Paypal: @maazwaheed123
+- 🔭 Paypal: @maazwaheed123
 
 # Current Distro
 ![Screenshot (3)](https://user-images.githubusercontent.com/93708296/197692440-56fdac16-05cb-461d-8b91-6bb1c0ab5dfe.png)
