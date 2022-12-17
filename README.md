@@ -2,7 +2,7 @@
 
 
 
-
+- 📞 Join WhatsApp group [here](https://chat.whatsapp.com/Do9YjwQVOVWJ3kvSAT6BSI)
 - 🔭 I’m currently working on MicroControllers
 - 🌱 I’m currently learning Lua / GoLang
 - 👯 I’m looking to collaborate on Wifi-Jammer
@@ -18,7 +18,6 @@
 
 # Current Distros
 <!-- ![Screenshot (3)](https://user-images.githubusercontent.com/93708296/197692440-56fdac16-05cb-461d-8b91-6bb1c0ab5dfe.png) -->
-![Screenshot (9)](https://user-images.githubusercontent.com/93708296/202829248-61467fb8-7e89-42a7-9bd2-55bc75ff660b.png)
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/93708296/200160770-5835502b-4eac-422d-bb00-b94b2d7308a4.png)
 
