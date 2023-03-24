@@ -12,7 +12,7 @@
 - 😄 Pronouns: his/him
 - ⚡ Fun fact: A Memer
 - 🌱 Youtube:~ https://www.youtube.com/channel/UCz3fLSyG0whhQxXnZ2vmIYw
-
+- 🔭 Future IDEAs [here](http://ideas.pythonanywhere.com/)
 # PayPal
 - 🔭 Paypal: @maazwaheed123
 
