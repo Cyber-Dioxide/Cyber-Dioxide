@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-
+- 💬 Join Telegram group [here](http://t.me/cyber_diox)
 - 📞 Join WhatsApp group [here](https://chat.whatsapp.com/Do9YjwQVOVWJ3kvSAT6BSI)
 - 🔭 I’m currently working on MicroControllers
 - 🌱 I’m currently learning Lua / GoLang
