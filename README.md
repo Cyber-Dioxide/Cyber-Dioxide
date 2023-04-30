@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡Master of all trades
-- ⚡Hire me and get it done ¼
+- ⚡Hire me and get it done
 - 💬 Join Telegram group [here](http://t.me/cyber_diox)
 - 🔭 I’m currently working on MicroControllers
 - 🌱 I’m currently learning Lua / GoLang
