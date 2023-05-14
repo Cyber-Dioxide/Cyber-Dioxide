@@ -15,6 +15,9 @@
 # PayPal
 - 🔭 Paypal: @maazwaheed123
 
+# CYB Store
+- Visit your favourite [CYB Store](http://cybshop.pythonanywhere.com/)
+
 # Current Distros
 <!-- ![Screenshot (3)](https://user-images.githubusercontent.com/93708296/197692440-56fdac16-05cb-461d-8b91-6bb1c0ab5dfe.png) -->
 
