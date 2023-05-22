@@ -5,8 +5,8 @@
 - 💬 Join Telegram group [here](http://t.me/cyber_diox)
 - 🔭 I’m currently working on MicroControllers
 - 🌱 I’m currently learning Lua / GoLang
-- 👯 I’m looking to collaborate on Wifi-Jammer
-- 🤔 I’m looking for help with Raspberry Pi
+- 👯 I’m looking to collaborate on AI Projects
+- 🤔 I’m looking for help with Making Money
 - 💬 Ask me about any tool on Instagram @cyber_dioxide
 - 📫 How to reach me: https://www.instagram.com/cyber_dioxide
 - 😄 Pronouns: his/him
