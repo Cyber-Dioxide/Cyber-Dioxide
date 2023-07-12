@@ -11,7 +11,7 @@
 - 📫 How to reach me: https://www.instagram.com/cyber_dioxide
 - 😄 Pronouns: his/him
 - 🌱 Youtube: [here](https://www.youtube.com/channel/UCz3fLSyG0whhQxXnZ2vmIYw)
-- 🔭 Future IDEAs [here](http://ideas.pythonanywhere.com/)
+- 🔭 Hackers Store [here](http://cybshop.pythonanywhere.com/)
 # PayPal
 - 🔭 Paypal: @maazwaheed123
 
