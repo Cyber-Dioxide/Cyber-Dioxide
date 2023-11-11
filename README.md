@@ -1,15 +1,13 @@
 ### Hi there 👋
-
+- 🌱 Cyber Blog [here](https://cyberdioxide.com)
 - ⚡Master of all trades
-- ⚡Hire me and get it done
 - 💬 Join Telegram group [here](http://t.me/cyber_dioxid)
 - 🔭 I’m currently working on MicroControllers
 - 🌱 I’m currently learning Lua / GoLang
 - 👯 I’m looking to collaborate on AI Projects
 - 🤔 I’m looking for help with Making Money
 - 💬 Ask me about any tool on Instagram @cyber_dioxide
-- 📫 How to reach me: https://www.instagram.com/cyber_dioxide
-- 😄 Pronouns: his/him
+- 📫 How to reach me: [here](https://www.instagram.com/cyber_dioxide)
 - 🌱 Youtube: [here](https://www.youtube.com/channel/UCz3fLSyG0whhQxXnZ2vmIYw)
 - 🔭 Hackers Store [here](http://cybshop.pythonanywhere.com/)
 
