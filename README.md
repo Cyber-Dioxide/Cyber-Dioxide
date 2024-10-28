@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 Cyber Blog [here](https://cyberdioxide.com)
+- 🌱 Cyber Blog [here](https://cyox2.com)
 - ⚡Master of all trades
 - 💬 Join Telegram group [here](http://t.me/cyber_dioxid)
 - 🔭 I’m currently working on MicroControllers
