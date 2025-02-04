@@ -3,13 +3,13 @@
 - ⚡Master of all trades
 - 💬 Join Telegram group [here](https://t.me/cyox2)
 - 🔭 I’m currently working on MicroControllers
-- 🌱 I’m currently learning Lua / GoLang
+- 🌱 I’m currently learning Lua / Elixir
 - 👯 I’m looking to collaborate on AI Projects
-- 🤔 I’m looking for help with Making Money
+- 🤔 I’m looking for help with Nothing
 - 💬 Ask me about any tool on Instagram @cyber_dioxide
 - 📫 How to reach me: [here](https://www.instagram.com/coding_memz)
 - 🌱 Youtube: [here](https://www.youtube.com/channel/UCz3fLSyG0whhQxXnZ2vmIYw)
-- 🔭 Hackers Store [here](https://www.cyberdshop.com//)
+- 🔭 Hackers Store [here](https://www.cybshop.pythonanywhere.com//)
 
 # CYB Store
 - Visit your favourite [CYB Store](http://cybshop.pythonanywhere.com/)
