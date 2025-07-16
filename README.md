@@ -6,10 +6,9 @@
 - 🌱 I’m currently learning Lua / Elixir
 - 👯 I’m looking to collaborate on AI Projects
 - 🤔 I’m looking for help with Nothing
-- 💬 Ask me about any tool on Instagram @cyber_dioxide
+- 💬 Ask me about any tool on Telegran @cyberoxide
 - 📫 How to reach me: [here](https://www.instagram.com/coding_memz)
 - 🌱 Youtube: [here](https://www.youtube.com/channel/UCz3fLSyG0whhQxXnZ2vmIYw)
-- 🔭 Hackers Store [here](https://www.cybshop.pythonanywhere.com//)
 
 # CYB Store
 - Visit your favourite [CYB Store](http://cybshop.pythonanywhere.com/)
