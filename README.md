@@ -14,7 +14,8 @@
 - Visit your favourite [CYB Store](http://cybshop.pythonanywhere.com/)
 
 # Current Distro
-![Screenshot (7)](https://user-images.githubusercontent.com/93708296/200160770-5835502b-4eac-422d-bb00-b94b2d7308a4.png)
+<img width="1492" height="950" alt="image" src="https://github.com/user-attachments/assets/76d4d2c7-f755-4195-a55b-f301967b8729" />
+
 
 #
 <p align="center"><img src="https://github.com/Cyber-Dioxide/Cyber-Dioxide/assets/93708296/b225ba97-9c98-4576-a2bc-9e4f7fd5cc40" alt="Bt">
