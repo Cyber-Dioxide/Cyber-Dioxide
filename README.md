@@ -55,7 +55,6 @@ cyberdioxide@projects:~$ █
 
 </div>
 
----
 
 ## 🖥️ Current Development Environment
 
@@ -63,7 +62,7 @@ cyberdioxide@projects:~$ █
   <img width="1492" height="950" alt="Current Distro" src="https://github.com/user-attachments/assets/76d4d2c7-f755-4195-a55b-f301967b8729" style="border-radius: 10px; border: 1px solid #FF00FF; box-shadow: 0 0 20px rgba(255, 0, 255, 0.3);">
 </div>
 
----
+
 
 ## 🛠️ Languages & Tools
 
@@ -99,7 +98,7 @@ cyberdioxide@skills:~$ █
 
 </div>
 
----
+
 
 ## 📊 GitHub Statistics
 
@@ -119,11 +118,11 @@ cyberdioxide@stats:~$ █
 
 </div>
 
----
+
 
 <div align="center">
   <img src="https://github.com/Cyber-Dioxide/Cyber-Dioxide/assets/93708296/7094aa83-832f-444d-aa90-1fc2c03b1397" alt="Terminal" style="border-radius: 10px; border: 1px solid #00FFFF; box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);">
   <br>
   <span style="color:#00FFFF; font-family: monospace;">$ echo "Stay curious, keep hacking, and never stop learning."</span>
 </div>
-```
+
