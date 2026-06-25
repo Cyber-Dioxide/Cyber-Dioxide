@@ -167,4 +167,4 @@ cyberdioxide@stats:~$ █
   <br>
   <span style="color:#00FFFF; font-family: monospace; font-size: 1.1em;">$ echo "Stay curious, keep hacking, and never stop learning."</span>
 </div>
-```
+
